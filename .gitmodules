@@ -1,3 +1,4 @@
 [submodule "repo1"]
 	path = repo1
 	url = https://github.com/zhenhao-ola/repo1.git
+        tag = 2.0
